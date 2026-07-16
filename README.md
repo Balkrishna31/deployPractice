@@ -1,4 +1,3 @@
-# deployPractice
 
 # HTML Practice Page
 
